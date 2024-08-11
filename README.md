@@ -22,5 +22,5 @@ Java, Unit Testing
   3. Fix the definition of a method based on a given datatype.
   4. Execute Unit Tests to verify the correctness of the functionalities
 
-### Skills used
+### Skills Used
 Java, Unit Testing, Debugging
